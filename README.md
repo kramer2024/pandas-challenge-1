@@ -73,3 +73,7 @@ Use the Pandas DataFrame documentationLinks to an external site. to find helpful
 Remember to make functions whenever appropriate and name them well. Functions are helpful both for performing operations and for making code more readable.
 
 Don’t forget to use all the steps in the analytical process! It can be especially hard to remember the steps that come before the coding starts. Define the question before you begin, and make sure to read to the end of the instructions first. If there are steps that don’t make sense yet, use the space reserved for data exploration to try and understand it.
+
+## Summary of data analysis: 
+The company appears to sell a variety of items ranging from decor items to electronics. The most common purchased items fall into the consumables category with bathroom supplies leading the list. In review of the data we can see that client Jessica Reyes(client id: 33615) had the most purchases from our company. We can also observe that Kendra Garrett(client id: 24741) far exceeded the total profit and total units purchased compared to the other 4 in the top 5 list. 
+
